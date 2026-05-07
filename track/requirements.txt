@@ -1,0 +1,4 @@
+jittor
+numpy
+pillow
+matplotlib
